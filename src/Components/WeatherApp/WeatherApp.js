@@ -21,7 +21,7 @@ import humidity_icon from "../Assets/humidity.png";
 
 const WeatherApp =  () => {
 
-    let api_key = "48c843d3371206d9bf631203b90605e1"; 
+ 
 
     useEffect( () => {
 
